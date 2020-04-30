@@ -17,8 +17,8 @@ Con este código, solo se requiere darle al programa:
 * El color con el que graficar. 
   * "indigo"
 
-
-Los resultados, tras correr el código que se muestra en example.py:
+Las funciones que corren, así como el orden en el que recomiendo hacerlo, están en functions.py. 
+Los resultados, tras correr el código que se muestra en example_1.py (_individual_) o example_2.py (_grupos_) son:
 
 # Nube de las palabras más usadas
 
