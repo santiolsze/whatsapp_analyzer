@@ -21,15 +21,15 @@ Los resultados, tras correr el código que se muestra en example.py:
 
 # Nube de las palabras más usadas
 
-![](wordcloud_plot_LPB.jpg | width=100 )
+![](wordcloud_plot_LPB.jpg =250x250)
 
 # Cuántos mensajes mandó cada usuario
 
-![](msj_count_plot_LPB.jpg | width=100)
+![](msj_count_plot_LPB.jpg =250x250)
 
 # Distribución de mensajes por hora (y por año, y por mes)
 
-![](hour_count_plot_LPB.jpg | width=100)
+![](hour_count_plot_LPB.jpg =250x250)
 
 # Entre muchas otras posibilidades.
 
