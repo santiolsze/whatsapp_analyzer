@@ -1,8 +1,9 @@
 # WHATSAPP ANALYZER
 
-Este es un pequeño proyecto personal con el objetivo de familiarizarme con el lenguaje de programación Python y varias de las librerías más usadas en ciencia de datos. El código está disponible en el repositorio. Este es un ejemplo de la evolución de mis chats en el grupo LPB desde que fue creado.  
+Este es un pequeño proyecto personal con el objetivo de familiarizarme con el lenguaje de programación Python y varias de las librerías más usadas en ciencia de datos. El código está disponible en el repositorio. Este es un ejemplo de la evolución de mis chats en el grupo LPB desde que fue creado. Estas son las 200 palabras que más usamos. 
 
-![](daily_plot_LPB.jpg)
+
+![](wordcloud_plot_LPB.jpg)
 
 
 # Input 
@@ -22,7 +23,8 @@ Los resultados, tras correr el código que se muestra en example_1.py (_individu
 
 # Nube de las palabras más usadas
 
-![](wordcloud_plot_LPB.jpg)
+![](daily_plot_LPB.jpg)
+
 
 # Cuántos mensajes mandó cada usuario
 
