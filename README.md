@@ -5,6 +5,7 @@ Este es un pequeño proyecto personal con el objetivo de familiarizarme con el l
 ![](daily_plot_LPB.jpg)
 
 
+# Input 
 Con este código, solo se requiere darle al programa:
 
 * El nombre del archivo que sale de _Whatsapp -> Exportar chat
@@ -21,19 +22,20 @@ Los resultados, tras correr el código que se muestra en example.py:
 
 # Nube de las palabras más usadas
 
-![](wordcloud_plot_LPB.jpg =250x250)
+![](wordcloud_plot_LPB.jpg)
 
 # Cuántos mensajes mandó cada usuario
 
-![](msj_count_plot_LPB.jpg =250x250)
+![](msj_count_plot_LPB.jpg)
 
 # Distribución de mensajes por hora (y por año, y por mes)
 
-![](hour_count_plot_LPB.jpg =250x250)
+![](hour_count_plot_LPB.jpg)
 
-# Entre muchas otras posibilidades.
+# Más, todavía en desarrollo.
+
+Si tenés dudas o sugerencias, escribime! 
+https://www.linkedin.com/in/santiago-olszevicki-01a413125/
 
 
-
-Disclaimer: el código está en desarrollo. 
 
