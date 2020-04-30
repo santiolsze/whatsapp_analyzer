@@ -8,27 +8,32 @@ Este es un pequeño proyecto personal con el objetivo de familiarizarme con el l
 Con este código, solo se requiere darle al programa:
 
 * El nombre del archivo que sale de _Whatsapp -> Exportar chat
- * filename = "LPB.txt"
+    * filename = "LPB.txt"
 * El nombre de la otra persona (str) o la lista de nombres en un grupo, así como el nombre de uno.
- * others = ["Oco","Nacho","Mauro","Lorant"....]
- * me = "Santiago Olszevicki"
+    * others = ["Oco","Nacho","Mauro","Lorant"....]
+    * me = "Santiago Olszevicki"
 
 * El color con el que graficar. 
- *"indigo"
+  * "indigo"
 
 
-Para un grupo de amigos llamado LPB, se exporta un archivo de Whatsapp llamado "LPB.txt". Se pueden generar diversos gráficos, como mensajes agrupados por hora, por mes, por usuario y hasta una nube de palabras. 
+Los resultados, tras correr el código que se muestra en example.py:
+
+# Nube de las palabras más usadas
+
+![](wordcloud_plot_LPB.jpg)
+
+# Cuántos mensajes mandó cada usuario
+
+![](msj_count_plot_LPB.jpg)
+
+# Distribución de mensajes por hora (y por año, y por mes)
+
+![](hour_count_plot_LPB.jpg)
+
+# Entre muchas otras posibilidades.
 
 
 
-filename = "LPB.txt"
-color  = "lightblue"
-me = "Santiago Olszevicki"
-others = ["Oco", "Mauro"....] _y todos los otros miembros del grupo_
-
-file_stripped = read_file(filename)
-df = create_df(file_stripped)
-df = add_msj_writer_groups(df, others)
-
-
+Disclaimer: el código está en desarrollo. 
 
