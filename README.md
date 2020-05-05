@@ -16,9 +16,9 @@ Con este código, solo se requiere darle al programa:
     * me = "Santiago Olszevicki"
 
 * El color con el que graficar. 
-  * "indigo"
+  * color = "indigo"
 
-Las funciones que corren están en functions.py. El orden en el que recomiendo correrlas están en los archivos llamados example.py. 
+Las funciones que corren están en functions.py. El orden en el que recomiendo correrlas está en los archivos llamados example.py. 
 Los resultados, tras correr el código que se muestra en example_1.py (_individual_) o example_2.py (_grupos_) son:
 
 # Evolución diaria de mensajes 
