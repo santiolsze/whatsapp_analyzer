@@ -9,7 +9,7 @@ Este es un pequeño proyecto personal con el objetivo de familiarizarme con el l
 # Input 
 Con este código, solo se requiere darle al programa:
 
-* El nombre del archivo que sale de _Whatsapp -> Exportar chat
+* El nombre del archivo que sale de Whatsapp -> Exportar chat
     * filename = "LPB.txt"
 * El nombre de la otra persona (str) o la lista de nombres en un grupo, así como el nombre de uno.
     * others = ["Oco","Nacho","Mauro","Lorant"....]
@@ -18,7 +18,7 @@ Con este código, solo se requiere darle al programa:
 * El color con el que graficar. 
   * "indigo"
 
-Las funciones que corren, así como el orden en el que recomiendo hacerlo, están en functions.py. 
+Las funciones que corren están en functions.py. El orden en el que recomiendo correrlas están en los archivos llamados example.py. 
 Los resultados, tras correr el código que se muestra en example_1.py (_individual_) o example_2.py (_grupos_) son:
 
 # Evolución diaria de mensajes 
@@ -39,5 +39,6 @@ Los resultados, tras correr el código que se muestra en example_1.py (_individu
 Si tenés dudas o sugerencias, escribime! 
 https://www.linkedin.com/in/santiago-olszevicki-01a413125/
 
+Si lo usás, citá la fuente!
 
 
